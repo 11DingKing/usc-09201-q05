@@ -1,0 +1,8 @@
+[project]
+name = "usc_09201_05"
+version = "0.1.0"
+description = "森林经营方案年历服务基础"
+requires-python = ">=3.11"
+
+[tool.unittest]
+start-directory = "tests"

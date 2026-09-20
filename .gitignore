@@ -1,0 +1,14 @@
+.env
+*.key
+*.pem
+.venv/
+venv/
+dist/
+build/
+coverage/
+__pycache__/
+*.py[cod]
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
